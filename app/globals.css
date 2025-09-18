@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #ea2a33;
+  --background-color: #0f0f0f;
+  --surface-color: #282828;
+  --text-primary: #ffffff;
+  --text-secondary: #aaaaaa;
+}
+
+.active-nav-item {
+  background-color: var(--surface-color);
+  font-weight: 500;
+}
