@@ -34,15 +34,6 @@ export default async function Search(props: {
               Under 4 minutes
             </p>
           </button>
-          <button className="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-neutral-800 px-4 text-white hover:bg-neutral-700">
-            <p className="text-sm font-medium leading-normal">4-20 minutes</p>
-          </button>
-          <button className="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-neutral-800 px-4 text-white hover:bg-neutral-700">
-            <p className="text-sm font-medium leading-normal">Video</p>
-          </button>
-          <button className="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-neutral-800 px-4 text-white hover:bg-neutral-700">
-            <p className="text-sm font-medium leading-normal">Channel</p>
-          </button>
         </div>
       </div>
 
