@@ -4,9 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
-    "start": "next start",
-    "lint": "eslint"
+    "build": "next build --turbopack"
   },
   "dependencies": {
     "lucide-react": "^0.544.0",
