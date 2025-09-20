@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack"
+    "build": "next build --turbopack",
+    "new-scripe": "testing"
   },
   "dependencies": {
     "lucide-react": "^0.544.0",
